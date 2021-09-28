@@ -1,2 +1,4 @@
 # CTI110
-CTI 110 REPOSITORY
+Created for P1LAB2
+Phillips
+9/28/21
